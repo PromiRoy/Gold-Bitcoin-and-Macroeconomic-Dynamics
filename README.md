@@ -28,7 +28,7 @@ moved increasingly with equities since 2020.
 
 ## Full write-up
 
-[Macroeconomic Data Analysis (PDF)](Macroeconomic_Data_Analysis.pdf)
+[Macroeconomic Data Analysis (PDF)](Macroeconomic_Data_Analysis.pdf) 
 [Gold and Bitcoin analysis (PDF)](Gold_pdf.pdf)
 
 ## Data
